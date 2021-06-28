@@ -2,7 +2,7 @@
 
 Step1: git clone https://github.com/ROBOTIS-GIT/turtlebot3.git
 
-Step2: git clone https://github.com/pijuanyu2022/turtlebot3_gazebo
+Step2: git clone https://github.com/pijuanyu2022/turtlebot3_gazebo.git
 
 Step3: catkin_make
 
