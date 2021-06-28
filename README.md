@@ -1,4 +1,4 @@
-# turtlebot3_gazebo
+# Use turtlebot3 to follow a yellow line
 
 Step1: git clone https://github.com/ROBOTIS-GIT/turtlebot3.git
 
