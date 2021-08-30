@@ -16,7 +16,9 @@ Step6: rosrun turtlebot3_gazebo follower.py
 
 SLAM:
 
-Step1: export TURTLEBOT3_MODEL = burger
+Step1: source ~/catkin_slam/devel/setup.bash
+
+export TURTLEBOT3_MODEL = burger
 
 Step2: roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
