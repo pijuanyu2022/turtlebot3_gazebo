@@ -18,7 +18,7 @@ SLAM:
 
 Step1: source ~/catkin_slam/devel/setup.bash
 
-export TURTLEBOT3_MODEL = burger
+export TURTLEBOT3_MODEL=burger
 
 Step2: roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
